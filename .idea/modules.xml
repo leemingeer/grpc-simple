@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/grpc-simple.iml" filepath="$PROJECT_DIR$/.idea/grpc-simple.iml" />
+      <module fileurl="file://$USER_HOME$/hexo/.idea/hexo.iml" filepath="$USER_HOME$/hexo/.idea/hexo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kubernetes-master/.idea/kubernetes-master.iml" filepath="$PROJECT_DIR$/../kubernetes-master/.idea/kubernetes-master.iml" />
+    </modules>
+  </component>
+</project>
